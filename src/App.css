@@ -1,0 +1,11 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/** css for card grid */
+div.meal__list__card{
+  height: 26rem;
+}
+
+div.meal__list__card:hover {
+  cursor: pointer;
+}
+
